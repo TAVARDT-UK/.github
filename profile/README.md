@@ -111,4 +111,4 @@ All technical assets and deployments managed within the TAVARDT UK perimeter com
 * Corporate Portal: [https://ag.tavardt.com/uk/](https://ag.tavardt.com/uk/)
 * Technical Tools: [https://tools.tavardt.com/uk/](https://tools.tavardt.com/uk/)
 * Official Electronic Mail: [contact@tavardt.com](mailto:contact@tavardt.com)
-* GitHub Organisation: [https://github.com/TAVARDT-UK](https://github.com/TAVARDT-UK)
+* Direct Client Intake: [Direct Technical Consultation with Sofia (WhatsApp)](https://wa.me/5584987721775?text=Hello%20Sofia,%20I%20am%20contacting%20you%20via%20the%20TAVARDT%20UK%20GitHub%20organisation%20regarding%20a%20technical%20inquiry.)
