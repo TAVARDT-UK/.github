@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/uk/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # TAVARDT UK | Engineering, Cybersecurity & Digital Growth Architecture
 
 TAVARDT is a digital engineering consultancy, cyber defence practice, and growth architecture firm delivering mission-critical web applications, proactive threat mitigation, and data-driven client acquisition systems.
