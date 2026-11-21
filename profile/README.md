@@ -79,6 +79,7 @@ This repository serves as the central technical distribution and documentation h
 
 The TAVARDT Diagnostic Suite is publicly accessible for technical validation, vulnerability auditing, and organic performance checks:
 
+* [LLM Robustness Evaluator & Guardrails Stress Tester](https://tools.tavardt.com/uk/llm-robustness-evaluator/): Interactive security fuzzer and defensive benchmark auditing LLM system prompts against prompt injections, roleplay overrides, and system prompt leakage. Resilience score (0-100) + hardening blueprints. ([GitHub Repository](https://tavardt-uk.github.io/llm-robustness-evaluator-uk/))
 * [DMARC & Email Spoofing Checker](https://tools.tavardt.com/uk/dmarc-checker/): Validates DMARC policies, SPF alignment, and DKIM public keys to stop domain impersonation.
 * [Security Headers Compliance Analyser](https://tools.tavardt.com/uk/security-headers-check/): Audits HTTP response headers including CSP, HSTS, X-Frame-Options, and Referrer-Policy.
 * [SEO Spam & Injection Detector](https://tools.tavardt.com/uk/seo-spam-detector/): Identifies hidden cloaked links, Japanese keyword injections, and conditional server cloaking.
